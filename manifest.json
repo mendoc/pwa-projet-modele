@@ -1,0 +1,20 @@
+{
+    "short_name": "Projet Modele",
+    "name": "Projet Modèle de PWA",
+    "icons": [
+        {
+            "src": "/images/logo-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/images/logo-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/",
+    "background_color": "#325fa3",
+    "display": "standalone",
+    "theme_color": "#325fa3"
+}
